@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AnimatedTextView</string>
+    <string name="text">支持设置AnimationDrawable类型的Spanpic，使用PaddingDrawableSpan设置间距。</string>
+</resources>
