@@ -9,4 +9,4 @@ Android自定义控件
 ### SlideToastLayout
 类似今日头条下拉刷新后的toast提示
 
-<img src="https://github.com/zh8637688/CustomViews/blob/master/slidetoastlayout/screenshot/screenshot.gif?raw=true" width = "300" height = "168" alt="AnimatedTextView" align=center />
+<img src="https://github.com/zh8637688/CustomViews/blob/master/slidetoastlayout/screenshot/screenshot.gif?raw=true" width = "270" height = "480" alt="AnimatedTextView" align=center />
