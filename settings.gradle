@@ -1,1 +1,1 @@
-include ':animatedtextview', ':slidetoastlayout'
+include ':animatedtextview', ':slidetoastlayout', ':observelistview'
