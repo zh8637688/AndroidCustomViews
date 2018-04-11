@@ -11,7 +11,7 @@ Android自定义控件
 #### Feature:
 类似今日头条下拉刷新后的toast提示
 
-<img src="https://github.com/zh8637688/CustomViews/blob/master/slidetoastlayout/screenshot/screenshot.gif?raw=true" width = "270" height = "480" alt="AnimatedTextView" align=center />
+<img src="https://github.com/zh8637688/CustomViews/blob/master/slidetoastlayout/screenshot/screenshot.gif?raw=true" width = "290" height = "450" alt="AnimatedTextView" align=center />
 
 ### ObserverableListView
 #### Feature:
