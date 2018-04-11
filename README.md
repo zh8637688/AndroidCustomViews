@@ -5,7 +5,7 @@ Android自定义控件
 #### Feature:
 支持设置AnimationDrawable类型的Span
 
-<img src="https://github.com/zh8637688/CustomViews/blob/master/animatedtextview/screenshot/screenshot.gif?raw=true" width = "300" height = "168" alt="AnimatedTextView" align=center />
+<img src="https://github.com/zh8637688/CustomViews/blob/master/animatedtextview/screenshot/screenshot.gif?raw=true" width = "290" height = "450" alt="AnimatedTextView" align=center />
 
 ### SlideToastLayout
 #### Feature:
